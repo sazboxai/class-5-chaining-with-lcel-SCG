@@ -1,10 +1,10 @@
-# Week 4.1: Chaining with LCEL
+# Class 5: Chaining with LCEL
 
 ## Introduction
 In this class, we will discuss chaining and introduce the [LangChain Expression Language (LCEL)](https://python.langchain.com/docs/concepts/lcel/), a declarative way to easily compose chains together.
 
 ## Slides
-[Slides](https://docs.google.com/presentation/d/1VwfvVTdOCvIttYFlBYwQ7apo_HPXkDrx1KqXciJMT9s/edit?usp=sharing)
+[Slides](https://docs.google.com/presentation/d/1M5pQT-OCFYugkZ2Hs6dt9xj0SU0ZWX1aVonYh2JfPsM/edit?usp=sharing)
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
